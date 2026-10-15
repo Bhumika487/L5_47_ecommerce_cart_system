@@ -1,0 +1,4 @@
+E-commerce Cart Receipt
+ITEM1: Wireless Mouse | Qty: 2 | Unit price: 25.00 | Total: 50.00
+ITEM3: USB-C Hub | Qty: 3 | Unit price: 45.00 | Total: 135.00
+ITEM4: Monitor Stand | Qty: 1 | Unit price: 35.00 | Total: 35.00
